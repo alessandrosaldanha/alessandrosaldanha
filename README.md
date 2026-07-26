@@ -58,10 +58,10 @@ Atualmente construo soluções full stack que integram **React + TypeScript** no
 ### 📫 Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/alessandrosaldanha" target="_blank">
+  <a href="https://www.linkedin.com/in/alessandrosaldanha" target="https://www.linkedin.com/in/alessandro-saldanha-0868b8185/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:alessandro.saldanha@orla.tech">
+  <a href="mailto:alessandrosaldanha.as@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/alessandrosaldanha.as" target="alessandrosaldanha.as">
