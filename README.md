@@ -64,7 +64,7 @@ Atualmente construo soluções full stack que integram **React + TypeScript** no
   <a href="mailto:alessandro.saldanha@orla.tech">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/alessandrosaldanha.as" target="_blank">
+  <a href="https://www.instagram.com/alessandrosaldanha.as" target="alessandrosaldanha.as">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
