@@ -43,14 +43,16 @@ Atualmente construo soluções full stack que integram **React + TypeScript** no
 <br />
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alessandrosaldanha&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="Alessandro's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrosaldanha&layout=compact&theme=tokyonight&hide_border=true" width="30%" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alessandrosaldanha&theme=tokyo-night" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alessandrosaldanha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrosaldanha&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alessandrosaldanha&theme=tokyonight&hide_border=true" width="79%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alessandrosaldanha&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 <br />
