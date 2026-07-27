@@ -8,9 +8,9 @@
 
 ### 🚀 Sobre mim
 
-Engenheiro de Software focado em transformar problemas reais em produtos digitais robustos — arquiteturas escaláveis, automação inteligente e experiência do usuário em primeiro lugar.
+Engenheiro de Software focado em transformar problemas reais em produtos digitais robustos, arquiteturas escaláveis, automação inteligente e experiência do usuário em primeiro lugar.
 
-Atualmente construo soluções full stack que integram **React + TypeScript** no frontend, **PostgreSQL/Supabase** (Auth, RLS, Edge Functions) no backend e **IA generativa (Google Gemini)** para automatizar processos de negócio — da leitura de documentos à categorização inteligente de dados.
+Atualmente construo soluções full stack que integram **React + TypeScript** no frontend, **PostgreSQL/Supabase** (Auth, RLS, Edge Functions) no backend e **IA generativa (Google Gemini)** para automatizar processos de negócio, da leitura de documentos à categorização inteligente de dados.
 
 - 🔭 **Trabalhando em:** plataformas SaaS multi-tenant com governança, RBAC e auditoria completa de dados
 - 🌱 **Aprendizado contínuo:** arquitetura orientada a IA, Clean Architecture e escalabilidade de sistemas
