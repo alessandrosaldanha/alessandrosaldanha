@@ -1,80 +1,95 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Alessandro+Saldanha;Software+Engineer+%26+IA;Full+Stack+%7C+React+%2B+TypeScript+%2B+Supabase;SaaS+Multi-Tenant+%2B+IA+Generativa;Developer+Experience+com+Claude+Code+%2B+MCP" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Alessandro+Saldanha;Software+Engineer+%7C+Full+Stack+%2B+IA;React+%2B+TypeScript+%2B+Supabase;SaaS+Multi-Tenant+com+RBAC+e+Auditoria;Developer+Experience+com+Claude+Code+%2B+MCP" alt="Alessandro Saldanha — Software Engineer, Full Stack e IA" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:00F0FF&height=180&section=header&text=Hi%20there,%20I'm%20Alessandro%20%F0%9F%91%8B&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:00F0FF&height=180&section=header&text=Hi%20there,%20I'm%20Alessandro%20%F0%9F%91%8B&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="" />
 
-### 🚀 Sobre mim
+## 🚀 Sobre mim
 
-Engenheiro de Software focado em transformar problemas reais de negócios em produtos digitais robustos, arquiteturas escaláveis, automação inteligente e experiência do usuário impecável.
+Engenheiro de Software focado em transformar problemas reais de negócio em produtos digitais robustos: arquitetura escalável, automação inteligente e experiência do usuário impecável.
 
-Atualmente construo plataformas **SaaS Multi-Tenant** completas integrando **React + TypeScript** no frontend, **PostgreSQL/Supabase** (Auth, RLS avançado, RPCs e Storage) no backend e **IA Generativa (Google Gemini / OpenAI)** para automação de processos financeiros e leitura inteligente de documentos.
+Construo plataformas **SaaS multi-tenant** de ponta a ponta — **React + TypeScript** no frontend, **PostgreSQL/Supabase** (Auth, RLS avançado, RPCs, Edge Functions e Storage) no backend e **IA generativa** para leitura inteligente de documentos e automação de processos financeiros.
 
-- 🔭 **Trabalhando em:** Plataformas SaaS com governança corporativa, gestão hierárquica (Matriz/Filiais), RBAC estrito, gates de uso por plano e auditoria completa de dados.
-- ⚡ **Workflow & Produtividade:** Desenvolvimento acelerado por agentes de IA (**Claude Code**, **ChatGPT** e **MCP - Model Context Protocol**) para alta cadência de entrega e código limpo.
-- 📈 **Telemetria & Produto:** Implementação de analytics avançado, session replay e pesquisas in-app com **PostHog**.
-- 💬 **Pergunte-me sobre:** React, TypeScript, Supabase, engenharia de prompts/LLMs, RLS, RBAC e arquitetura multi-tenant.
-- ⚡ **Fun fact:** Já coloquei uma plataforma SaaS inteira em produção real rodando com arquitetura serverless e automações via IA.
-
-<br />
-
-### 🛠️ Stack & Ferramentas
-
-#### 💻 Frontend & Core
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-
-#### 🗄️ Backend, Banco de Dados & Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-#### 🤖 IA, Developer Experience & Automação
-<p align="left">
-  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-4F46E5?style=for-the-badge&logo=codeforces&logoColor=white" />
-</p>
-
-#### 📊 Telemetria & Analytics
-<p align="left">
-  <img src="https://img.shields.io/badge/PostHog-1D4ED8?style=for-the-badge&logo=posthog&logoColor=white" />
-</p>
+- 🔭 **Trabalhando em:** governança corporativa em SaaS — hierarquia Matriz/Filiais, RBAC estrito, gates de uso por plano e auditoria completa de dados
+- ⚡ **Workflow:** desenvolvimento acelerado por agentes de IA (**Claude Code**, **MCP**) com alta cadência de entrega e código limpo
+- 📈 **Telemetria:** analytics, session replay e pesquisas in-app com **PostHog**
+- 👯 **Aberto a colaborar em:** projetos open-source de automação com IA e ferramentas para o terceiro setor
+- 💼 **Freelance:** desenvolvimento de sites e sistemas sob medida para pequenos negócios
+- 💬 **Pergunte-me sobre:** React, TypeScript, Supabase, RLS/RBAC, multi-tenancy e engenharia de prompts
+- ⚡ **Fun fact:** já coloquei uma plataforma SaaS inteira em produção real rodando sobre o *free tier* do Supabase
 
 <br />
 
-### 📊 GitHub Stats
+## 📌 Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| **[nome-do-projeto](#)** | SaaS multi-tenant para gestão financeira com RBAC e auditoria | React · TypeScript · Supabase · Gemini |
+| **[nome-do-projeto](#)** | Leitura inteligente de documentos com IA generativa | React · Edge Functions · LLM |
+| **[nome-do-projeto](#)** | Site institucional com CMS e SEO técnico | Next.js · Tailwind · Vercel |
+
+<br />
+
+## 🛠️ Stack & Ferramentas
+
+**Frontend & Core**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
+
+**Backend, Dados & Cloud**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+**IA, Developer Experience & Automação**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-4F46E5?style=for-the-badge" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/PostHog-1D4ED8?style=for-the-badge&logo=posthog&logoColor=white" alt="PostHog" />
+</p>
+
+<br />
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alessandrosaldanha&theme=tokyo-night" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alessandrosaldanha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00F0FF&icon_color=00F0FF" height="165" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrosaldanha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00F0FF&langs_count=8" height="165" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alessandrosaldanha&theme=tokyo-night&hide_border=true" width="100%" alt="Gráfico de atividade" />
 </p>
 
 <br />
 
-### 📫 Contato
+## 📫 Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/alessandrosaldanha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/alessandro-saldanha-0868b8185/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:alessandrosaldanha.as@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
-  <a href="https://www.instagram.com/alessandrosaldanha.as" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/alessandrosaldanha.as">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:0F172A&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:0F172A&height=100&section=footer" width="100%" alt="" />
