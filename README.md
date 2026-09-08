@@ -68,13 +68,10 @@ Construo plataformas **SaaS multi-tenant** de ponta a ponta — **React + TypeSc
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alessandrosaldanha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00F0FF&icon_color=00F0FF" height="165" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alessandrosaldanha&theme=tokyonight&hide_border=true&background=0F172A&ring=00F0FF&fire=00F0FF&currStreakNum=FFFFFF" height="165" alt="Streak do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrosaldanha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00F0FF&langs_count=8" height="165" alt="Linguagens mais usadas" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alessandrosaldanha&theme=tokyo-night&hide_border=true&bg_color=0F172A" width="100%" alt="Gráfico de atividade" />
-</p>
+<br />
 
 ## 📫 Contato
 
