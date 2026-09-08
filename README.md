@@ -73,10 +73,8 @@ Construo plataformas **SaaS multi-tenant** de ponta a ponta — **React + TypeSc
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alessandrosaldanha&theme=tokyo-night&hide_border=true" width="100%" alt="Gráfico de atividade" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alessandrosaldanha&theme=tokyo-night&hide_border=true&bg_color=0F172A" width="100%" alt="Gráfico de atividade" />
 </p>
-
-<br />
 
 ## 📫 Contato
 
